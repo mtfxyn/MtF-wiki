@@ -1,4 +1,4 @@
-baseURL = "https://mtf.wiki"
+baseURL = "https://mtfxyn.eu.org"
 title = "MtF.wiki"
 theme = "zdoc"
 
@@ -18,7 +18,7 @@ googleAnalytics = ""
 disableKinds = ["taxonomyTerm"]
 
 [params]
-hostName = "https://mtf.wiki"
+hostName = "https://mtfxyn.eu.org"
 custom_css = [
   "customize.scss"
 ]
