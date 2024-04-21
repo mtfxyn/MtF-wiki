@@ -6,7 +6,7 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
 {{< mtf-wiki >}} is committed to becoming a free, open, and continuously updated transgender knowledge integration site, maintained by {{< project-trans >}}
 
@@ -14,17 +14,15 @@ Project <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo: [project-t
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Website of the project: <https://MtF.wiki>
 
-<i class="bi bi-link-45deg" aria-label="Website"></i> Sync mirror: <https://MtFwiki.cn>, <https://MtFwiki.com>
-
 Brother site: <https://FtM.wiki>
 
-Thanks goes to these GitHub contributors:
+My deepest thanks go to these GitHub contributors:
 
 {{< github/contributors >}}
 
 and other lovely guys who give us help and information.
 
-Contact if u would like to join!
+Contact us if u would like to join!
 
 ## Contact
 

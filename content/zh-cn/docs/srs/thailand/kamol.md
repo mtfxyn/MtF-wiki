@@ -18,28 +18,34 @@ title: Kamol
 
 WhatsApp：{{< telephone "+34 676-956-831" >}}
 
-## 中介联系
+## 医疗中介
 
-这里的微信均为中文中介，已无医院在职员工。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院。[点击前往相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)
+这里的微信均为中文中介，均不为医院在职员工，[点击前往相关讨论页面](https://github.com/project-trans/MtF-wiki/issues/760)。鉴于目前中文中介信用较差，建议若要考虑 kamol 可直接联系医院，目前已知的中文员工为 Baifern<sup>2023-10-08</sup>。
 
-{{< shields/wechat "xiaofeitum2" >}}
-做零深度的姐妹不建议与xiaofeitum2联系，因为存在加价行为
+- {{< shields/wechat "wuyanlii" >}}
 
-{{< shields/wechat "wuyanlii" >}}
-据 [讨论](https://github.com/project-trans/MtF-wiki/issues/760) 存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。参考阅读上面的讨论页面。建议谨慎交出签证原件。
+    据 [讨论](https://github.com/project-trans/MtF-wiki/issues/760) 存在手术前几天临时加价、且拒绝加价则威胁扣留签证的行为。参考阅读上面的讨论页面。建议谨慎交出签证原件。
+
+- {{< shields/wechat "xiaofeitum2" >}}
+
+    据反馈存在加价以在预后差时不管客人的案例。
 
 ## 翻译陪护
 
-Jessica (自身为 MtF，可带其他医生) {{< shields/wechat "JessicaLee9985" >}} {{< shields/telegram "jessicalee85" >}}
+- Jessica  {{< shields/wechat "JessicaLee9985" >}}、{{< shields/telegram "jessicalee85" >}}、{{< shields/line "jessicalee74" >}}
+
+    自身为 MtF
 
 ## 手术费用
 
+含宿与术前费用
+
 ```csv
 手术方式,价格
-0 深度,{{< currency 275000 THB >}}
-仅阴茎翻转 PI 皮瓣,{{< currency 321000 THB >}}
-阴囊皮瓣,{{< currency 11500 USD >}} 含宿与术前费用
-结肠,{{< currency 500000 THB >}}
+0 深度,{{< currency 299000 THB >}}
+仅阴茎翻转 PI 皮瓣,{{< currency 350000 THB >}}
+阴囊皮瓣,{{< currency 400000 THB >}}
+结肠,{{< currency 520000 THB >}}
 结肠（腹腔镜）,{{< currency 630000 THB >}}
 腹膜,{{< currency 650000 THB >}}
 ```
@@ -139,4 +145,5 @@ Kamol 提供 0 深度、PI 皮瓣、非 PI 皮瓣、结肠 和 腹膜 SRS．
 
 ## 内容参考
 
-[Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)
+- [Gogo 变成猫猫了——SRS 日志](https://blog.gogo.moe/gogo_became_a_cat/)
+- 一位姐妹的SRS日记 <https://t.me/kamolzerodepthexperience>

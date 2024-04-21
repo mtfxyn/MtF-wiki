@@ -6,7 +6,7 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
 {{< mtf-wiki >}} 由 {{< project-trans >}} 維護，致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
@@ -15,8 +15,6 @@ weight: 0
 本專案
 
 <i class="bi bi-link-45deg"></i> 主頁：<https://MtF.wiki>
-
-<i class="bi bi-link-45deg"></i> 備用入口：<https://MtFwiki.cn>，<https://MtFwiki.com>
 
 兄弟站：<https://FtM.wiki>
 

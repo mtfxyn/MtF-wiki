@@ -6,15 +6,13 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
 {{< project-trans >}} が運営する {{< mtf-wiki >}} は、自由でオープン、かつ継続的に更新されるトランスジェンダーの知識統合サイトとなることを目指します。
 
 計画 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> 計画のサイト：<https://MtF.wiki>
-
-<i class="bi bi-link-45deg" aria-label="Website"></i> ミラー：<https://MtFwiki.cn>、<https://MtFwiki.com>
 
 兄弟サイト: <https://FtM.wiki>
 

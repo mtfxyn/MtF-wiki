@@ -4,11 +4,17 @@ title: 大连｜张亮
 
 {{< doctor-image src="doctor.jpg" >}}
 
-{{< tag/pos "一次过" >}} {{< tag/neg "需家属介入" >}}
+{{< tag/neg "两年观察期" >}} {{< tag/neg "需家属介入" >}}
 
 医生姓名：张亮
 
 所在医院：[大连市第七人民医院](https://amap.com/place/B019B01AD1)
+
+{{< notice warning "注意" >}}
+
+在此医生处开具诊断证明须家长亲自到场，并且明确同意支持。
+
+{{</notice>}}
 
 ## 挂号与坐诊时间
 
@@ -40,4 +46,4 @@ title: 大连｜张亮
 
 ## 证明样式
 
-![诊断证明](proof.jpeg)
+{{< watermark "proof.jpeg" >}}
